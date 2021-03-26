@@ -15,7 +15,11 @@ Image citation tool for folios [40 verso - 41 recto](http://www.homermultitext.o
     - open Julia, and enter `using Pluto; Pluto.run()`  This will open a browser window on your Pluto notebook server. 
     -   In the box `Open from a file:`, find, inside your repository's `notebooks` folder the file named `midvalidator-VERSION.jl`.  This will take a long time to build.
 3. **Edit**: work on small pieces at a time, and validate frequently, so that if you encounter problems you can isolate them more easily.  **As soon as you validate a piece of work**, use VS Code's "source control" mode to get it into your repository:
-    - select the source control icon.  Here, it shows two files have been modified. <img src="https://raw.githubusercontent.com/HCMID/tutorial2021/main/imgs/sourcecontrolmode.png" width="150">
+    1. select the source control icon.  Here, it shows two files have been modified. <img src="https://raw.githubusercontent.com/HCMID/tutorial2021/main/imgs/sourcecontrolmode.png" width="150">.  Click on the `+` icon next to each name.  (You may need to hover over the file name or widen the column to see the `+`.)
+    2. The files now show up in the list of "Staged Changes. <img src="https://raw.githubusercontent.com/HCMID/tutorial2021/main/imgs/staged.png" width="150">
+    3. Click the ✔️ icon to commit your changes. <img src="https://raw.githubusercontent.com/HCMID/tutorial2021/main/imgs/commit.png" width="150"> This records it in your local clone of the repository.
+    4. Finally, choose "Push" from the drop-down ellipsis menu. <img src="https://raw.githubusercontent.com/HCMID/tutorial2021/main/imgs/push.png" width="150">
+
 
         
 
