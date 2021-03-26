@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Iliad 3</title>
+				<editor>Sophie Cassarino</editor>
+				<editor> Anne-Catherine Schaaf</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p>Licensed under the Creative Commons, Non-Commercial, Attribution, Share-alike
+					license: http://creativecommons.org/licenses/by-nc-sa/2.0/</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Edited directly from digital images.</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div n="3">
+				<head n="title">ἀρχὴ τῆς <title>γάμμα</title> <persName n="urn:cite2:hmt:pers.v1:pers17">ὁμήρον</persName> <choice><abbr>ῤαψω</abbr><expan>ῥαψωδίας</expan></choice></head>
+				<l n="1">αὐτὰρ ἐπεὶ κόσμηθεν ἅμ' ἡγεμόνεσσιν ἕκαστοι,</l>
+				<l n="2">τρῶες μὲν κλαγγῇ ἐνοπῇ τ' ἴσαν ὄρνιθες ὥς.</l>
+				<l n="3">ἠΰτε περ κλαγγὴ γεράνων πέλει οὐρανόθι πρό:</l>
+				<l n="4">αἵ τ' ἐπεὶ οὖν χειμῶνα φύγον καὶ ἀθέφατον ὄμβρον:</l>
+				<l n="5">κλαγγῇ ταί γε πέτονται ἐπ' ὠκεανοῖο ῥοάων</l>
+				<l n="6">ἀνδράσι πυγμαίοισι φόνον καὶ κῆρα φέρουσαι:</l>
+				<l n="7">ἠέριαι δ' ἄρα ταί γε κακὴν ἔριδα προφέρονται:</l>
+				<l n="8">οἳ δ' ἄρ' ἴσαν σιγῇ μένεα πνείοντες <rs type="ethnic" n="urn:cite2:hmt:place.v1:place96">ἀχαιοὶ</rs></l>
+				<l n="9">ἔν θυμῷ μεμαῶτες ἀλεξέμεν ἀλλήλοισιν:</l>
+				<l n="10">αὖτ' ὄρεος κορυφῇσι <persName n="urn:cite2:hmt:pers.v1:pers520">νότος</persName> κατέχευεν ὀμίχλην</l>
+				<l n="11">ποιμέσιν οὔτι φίλην: κλέπτῃ δέτε νυκτὸς ἀμείνω:</l>
+				<l n="12">τόσσον τίς τ' ἐπιλεύσσει ὅσον τ' ἐπὶ λᾶαν ἵησιν:</l>
+				<l n="13">ὣς ἄρα τῶν ὑπὸ ποσσὶ κονίσαλος ὄρνυτ' ἀελλὴς</l>
+				<l n="14">ἐρχομένων: μάλα δ' ὦκα διέπρησσον πεδίοιο:</l>
+				<l n="15">οἳ δ' ὅτε δὴ σχεδὸν ἦσαν ἐπ' ἀλλήλοισιν ἰόντω,</l>
+				<l n="16"><rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">τρωσὶν</rs> μὲν προμάχιζεν <persName n="urn:cite2:hmt:pers.v1:pers129">ἀλέξανδρος</persName> θεοειδὴς.</l>
+				<l n="17">παρδαλέην ὤιμοισιν ἔχων: καὶ καμπύλα τόξα.</l>
+				<l n="18">καὶ ξίφος: αὐτὰρ δοῦρε δύω κεκορυθμένα χαλκῷ</l>
+				<l n="19">πάλλων, <rs type="ethnic" n="urn:cite2:hmt:place.v1:place114">Ἀργείων</rs> προκαλίζετο πάντας ἀρίστους</l>
+
+				<l n="20">ἀντίβιον μαχέσασθαι ἐν αἰνῇ δηϊοτῆτι.</l>
+				<l n="21">τόν δ' ὡς οὖν ἐνόησεν ἀρηΐφιλος <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName></l>
+				<l n="22">ἐρχόμενον προπάροιθεν ὁμίλου μακρὰ βιβῶντα,</l>
+				<l n="23">ὥς τε λέων ἐχάρη μεγάλῳ ἐπι σώματι κύρσας</l>
+				<l n="24">εὑρὼν ἢ ἔλαφον κεραὸν ἢ ἄγριον αἶγα</l>
+				<l n="25">πεινάων: μάλα γάρ τε κατεσθίει εἴ περ ἂν αὐτον</l>
+				<l n="26">σεύωνται ταχέες τε κύνες θαλεροί τ' αἰζηοί:</l>
+				<l n="27">ὣς ἐχάρη Μενέλαος <persName n="urn:cite2:hmt:pers.v1:pers129">ἀλέξανδρον</persName> θεοειδέα</l>
+				<l n="28">ὀφθαλμοῖσιν ἰδών: φάτο γὰρ τίσασθαι ἀλείτην:</l>
+				<l n="29">αὐτίκα δ' ἐξ ὀχέων σὺν τεύχεσιν ἆλτο χαμάζε:</l>
+				<l n="30">τόν δ' ὡς οὖν ἐνόησεν <persName n="urn:cite2:hmt:pers.v1:pers129">ἀλέξανδρος</persName> θεοειδὴς</l>
+				<l n="31">ἐν προμάχοισι φανέντα, κατεπλήγη φίλον ἦτορ:</l>
+				<l n="32">ἄψ δ' ἑτάρων εἰς ἔθνος ἐχάζετο κῆρ' ἀλεείνων:</l>
+				<l n="33">ὡς δ' ὅτε τίς τε δράκοντα ἰδὼν παλίνορσος ἀπέστη</l>
+				<l n="34">οὔρεος ἐν βήσσῃς. ὑπό τε τρόμος ἔλλαβε γυῖα.</l>
+				<l n="35">ἂψ δ' ἀνεχώρησεν: ὦχρός τέ μϊν εἷλε παρειὰ,</l>
+				<l n="36">ὣς αὖτις καθ' ὅμιλον ἔδυ <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">τρώων</rs> ἀγερώχων</l>
+				<l n="37">δείσας <persName n="urn:cite2:hmt:pers.v1:pers23">ἀτρέος</persName> υἱὸν <persName n="urn:cite2:hmt:pers.v1:pers129">ἀλέξανδρος</persName> θεοειδής:</l>
+				<l n="38">τὸν δ' <persName n="urn:cite2:hmt:pers.v1:pers172">ἕκτωρ</persName> νείκεσσεν ἰδὼν αἰσχροῖς ἐπέεσσι:</l>
+				<l n="39"><persName n="urn:cite2:hmt:pers.v1:pers129">δύσπαρι</persName>: εἶδος ἄριστε: γυναιμανὲς, ἠπεροπευτά:</l>
+								
+			</div>
+        </body>
+    </text>
+</TEI>
